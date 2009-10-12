@@ -1,0 +1,3 @@
+useDynLib(gcolor)
+
+export(ineq,importDIMACSAscii,importDIMACSBin,test)
